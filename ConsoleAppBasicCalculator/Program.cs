@@ -14,6 +14,7 @@ string ShowMenu()
     string menuInput="";
     do
     {
+        Console.WriteLine("Welcome to Calculator App");
         Console.WriteLine("1. Addition");
         Console.WriteLine("2. Subtraction");
         Console.WriteLine("3. Division");
